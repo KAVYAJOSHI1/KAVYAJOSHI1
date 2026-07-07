@@ -28,7 +28,7 @@
 *   🥇 **1st Place (Winner)** — Breach 2025 FinTech Hackathon, PDEU *(AI Fraud Detection)*
 *   🏆 **Startup Grant Winner, Cohort 9** — PIERC Incubation, Parul University *(CarbonVerse)*
 *   ⭐ **LeetCode Expert** — Top 2.5% Globally (601 Problems Solved: 148 Hard, 282 Medium, 171 Easy)
-*   🏅 **Finalist** — Ingenious Hackathon 7.0 (Ingenium 2026) & SSIP Gujarat Hackathon 2025
+*   🏅 **Finalist** — Ingenious Hackathon 7.0 (Ingenium 2026), SSIP Gujarat Hackathon 2025, & GEC Hack.X
 *   🏆 **2× GLS Internal Hackathon Champion** (1st Place 2024, 2nd Place 2025)
 
 ## 💻 Technical Skills
