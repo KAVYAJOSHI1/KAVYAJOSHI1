@@ -52,14 +52,3 @@
 
 <br />
 
----
-### 📈 GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/KAVYAJOSHI1">
-    <img src="https://github-readme-stats.vercel.app/api?username=KAVYAJOSHI1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060910" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/KAVYAJOSHI1">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAVYAJOSHI1&theme=tokyonight&hide_border=true&background=060910" alt="GitHub Streak" width="48%" />
-  </a>
-</p>
