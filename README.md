@@ -53,5 +53,5 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KAVYAJOSHI1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060910&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KAVYAJOSHI1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=060910" alt="GitHub Stats" />
 </div>
