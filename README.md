@@ -29,11 +29,11 @@ B.Tech Computer Science student at GLS University (2023-2027, 8.75 CGPA) focused
 
 | Project | What it does | Tech Stack | Highlight |
 |---|---|---|---|
-| [**CoastScan**](https://github.com/KAVYAJOSHI1/CoastScan) | End-to-end AI & IoT platform for coastal sediment analysis with real-time telemetry | Python · OpenCV · Django · AWS · PostgreSQL | 🥇 SIH 2025 National Winner |
+| [**CoastScan**](https://github.com/KAVYAJOSHI1/CoastScan) | AI-driven coastal sediment analysis backend: computer vision grain-size distribution from photos, cloud image storage | Python · OpenCV · Django · AWS · PostgreSQL | 🥇 SIH 2025 National Winner |
 | [**AI-Powered Fraud Detection**](https://github.com/KAVYAJOSHI1/AI-Powered-Fraud-Detection-System) | Real-time anomaly detection engine for high-frequency financial transactions | Python · Django · TensorFlow · MongoDB | 🥇 Breach 2025 FinTech Hackathon Winner |
 | [**IoT Security Solution**](https://github.com/KAVYAJOSHI1/IoT-Security-Solution) | Software-defined security framework with cryptographic protocols and AI threat detection | C++ · Embedded Systems · MQTT | 🥇 DRDO Sampada 2025 Winner |
 | [**Sentinel GEC**](https://github.com/KAVYAJOSHI1/GEC) | AI retail security system cross-referencing video feeds with POS logs; blockchain-anchored audit trail | Python · Computer Vision · Solidity | 🏅 Hack.X, Top 12 Finalist |
-| [**CarbonVerse**](https://github.com/KAVYAJOSHI1/CARBONCRED) | AI-verified carbon credit marketplace; geo-tagged tree photos to on-chain credit minting | Python · Django · Solidity | 🏆 PIERC Incubated Startup |
+| [**CarbonVerse**](https://github.com/KAVYAJOSHI1/CARBONCRED) | AI-verified carbon credits: geo-tagged tree photos pass a fraud-detection pipeline, then mint on-chain | Python · Django · Solidity | 🏆 PIERC Incubated Startup |
 | [**VeriCred**](https://github.com/KAVYAJOSHI1/VeriCred) | Privacy-preserving credit scoring using ZKML; local proof generation, on-chain verification | PyTorch · Solidity · EZKL · Web3.js | Zero-Knowledge ML on-chain |
 | [**L3M**](https://github.com/KAVYAJOSHI1/L3M) | Privacy-first offline AI assistant with custom Model Context Protocol orchestration | Go · Python · React · Qdrant · Ollama · MCP | Local-first agentic AI |
 | [**Smart Manufacturing ERP**](https://github.com/KAVYAJOSHI1/ERP) | Event-driven microservices ERP for procurement, inventory, and finance | Go · Node.js · Next.js · Kafka · PostgreSQL · Redis | Enterprise-grade architecture |
@@ -47,12 +47,12 @@ B.Tech Computer Science student at GLS University (2023-2027, 8.75 CGPA) focused
 | [**GeoAnushasan**](https://github.com/KAVYAJOSHI1/GeoAnushasan) | Smart city digital twin integrating weather, AQI, and traffic telemetry | Python · Firebase · n8n · REST APIs | 🏅 Ingenium 2026 Finalist |
 | [**EcoScan**](https://github.com/KAVYAJOSHI1/Greenwashing-Detector) | Greenwashing detector analyzing product claims from photos and URLs | Python · Flask · Google Vision API · Hugging Face | - |
 | [**LocalMinds**](https://github.com/KAVYAJOSHI1/LOCALMINDS) | Sovereign, 100% offline AI companion with on-device inference and local RAG | Flutter · MediaPipe · Python | - |
-| [**MilletSetu**](https://github.com/KAVYAJOSHI1/MilletSetu-Blockchain) | Transparent Ethereum-based supply chain for millet farmers | Solidity · React · Ethers.js | - |
+| [**MilletSetu**](https://github.com/KAVYAJOSHI1/MilletSetu-Blockchain) | Direct-to-buyer millet marketplace with AI price prediction and Ethereum-anchored data integrity | Django · Ethers.js · scikit-learn | - |
 | [**UrjaSetu**](https://github.com/KAVYAJOSHI1/UrjaSetu-GUVNL-Platform) | AI-based grievance and asset management platform for GUVNL | React · Django · PostgreSQL | 🏅 SSIP Gujarat Finalist |
 | [**NexOS**](https://github.com/KAVYAJOSHI1/NexOS) | Local-first browser AI agent that drafts replies in the user's voice | JavaScript · Chrome Extension · n8n · Gemini | - |
 | [**Tribekart**](https://github.com/KAVYAJOSHI1/TRIBEKART) | Full-stack marketplace connecting artisans with buyers | React Native · Firebase · Firestore | - |
 | [**SportSpot**](https://github.com/KAVYAJOSHI1/SportSpot) | Turf booking and management platform for players and turf owners | Django · React Native · Expo | - |
-| [**IC Scanner**](https://github.com/KAVYAJOSHI1/IC-SCANNER) | Computer vision tool to detect counterfeit integrated circuits on manufacturing lines | Python · OpenCV · TensorFlow · Flask | - |
+| [**IC Scanner**](https://github.com/KAVYAJOSHI1/IC-SCANNER) | Computer vision tool to detect counterfeit integrated circuits on manufacturing lines | Python · OpenCV · YOLOv8 · FastAPI | - |
 | [**Flash Mentor**](https://github.com/KAVYAJOSHI1/flash-mentor) | AI learning platform with roadmap planner, skill tracker, and interview coach | React · TypeScript · Flask · Gemini AI | - |
 | [**Anantam Finserv**](https://github.com/KAVYAJOSHI1/ANANTAM_WEBSITE) | Financial services platform with auth and admin dashboard | Python · Django · SQLite | - |
 
