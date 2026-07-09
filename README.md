@@ -105,11 +105,16 @@ B.Tech Computer Science student at GLS University (2023-2027, 8.75 CGPA) focused
 
 ## 📄 Certifications
 
-![Oracle](https://img.shields.io/badge/Oracle-OCI_2025_Certified_AI_Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Academy_Cloud_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Foundations-181717?style=for-the-badge&logo=github&logoColor=white)
-![PIERC](https://img.shields.io/badge/PIERC-Startup_Pre--Incubation_Program-6C3EF4?style=for-the-badge)
-![Wadhwani](https://img.shields.io/badge/Wadhwani-Ignite_Bootcamp-00A19A?style=for-the-badge)
+- 🎓 **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** *(Oracle)*
+- ☁️ **AWS Academy Cloud Foundations Graduate** *(AWS)*
+- 📊 **Microsoft Learning Path: Dashboard in a Day (Power BI)** *(Microsoft)*
+- 🤖 **30-Day Industrial Training on Robotics & AI Simulation** *(My Equation, ratified by NVIDIA & Microsoft)*
+- 🧠 **Foundation Course on Green Skills & Artificial Intelligence** *(Edunet Foundation)*
+- ⛓️ **Mentorship Program on Blockchain / Bitcoin** *(LaunchED Global)*
+- 🚀 **Startup Pre-Incubation Program** *(PIERC, Parul University)*
+- 🐙 **GitHub Foundations Certification** *(GitHub)*
+- 🔥 **Ignite Bootcamp: Idea to Plan** *(Wadhwani Foundation)*
+- ✏️ **Innovation, Design & Entrepreneurship (IDE) Bootcamp** *(AICTE, Ministry of Education & Wadhwani Foundation)*
 
 <br />
 
