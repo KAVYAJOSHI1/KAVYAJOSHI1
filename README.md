@@ -64,7 +64,10 @@ B.Tech Computer Science student at GLS University (2023-2027, 8.75 CGPA) focused
 - 🥇 **Winner**, DRDO DIA-SVPCoE Hackathon 'Sampada 2025' *(IoT Security)*
 - 🥇 **1st Place**, Breach 2025 FinTech Hackathon, PDEU *(AI Fraud Detection)*
 - 🏆 **Startup Grant Winner, Cohort 9**, PIERC Incubation, Parul University *(CarbonVerse)*
-- 🏅 **Finalist**, Hack.X / HackTheSpring '26 (Top 12), Ingenium 2026, SSIP Gujarat Hackathon 2025, Parul Ideathon 2026
+- 🏅 **Finalist (Top 12)**, Hack.X / HackTheSpring '26 *(Sentinel GEC)*
+- 🏅 **Finalist**, Ingenium 2026 *(GeoAnushasan)*
+- 🏅 **Finalist**, SSIP Gujarat Hackathon 2025 *(UrjaSetu)*
+- 🏅 **Finalist**, Parul Ideathon 2026
 - 🏆 **2× GLS Internal Hackathon Champion** (1st Place 2024, 2nd Place 2025)
 - ⭐ **LeetCode Expert**, Top 2.5% globally, 610+ problems solved
 
