@@ -1,54 +1,114 @@
 <div align="center">
-  <h1>Hi there, I'm Kavya Joshi! 👋</h1>
-  <p><strong>Results-driven B.Tech CSE student and entrepreneur specializing in Scalable AI Pipelines, Decentralized Infrastructure, and Full-Stack Engineering.</strong></p>
-</div>
 
-<div align="center">
-  <a href="https://kavyajoshi1.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit_Website-3b82f6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/kavya-joshi-3765742b0"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:kavyajoshi152005@gmail.com"><img src="https://img.shields.io/badge/Email-kavyajoshi152005@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+# Hi, I'm Kavya Joshi 👋
+
+**B.Tech CSE student, founder, and full-stack/AI engineer** building scalable AI pipelines, decentralized infrastructure, and production-grade software. Currently ranked **Top 2.5% globally on LeetCode**.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-3b82f6?style=for-the-badge&logo=vercel&logoColor=white)](https://kavyajoshi1.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kavya-joshi-3765742b0)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavyajoshi152005@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Top_2.5%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/JoshiKavya/)
+
 </div>
 
 <br />
+
+## About Me
+
+B.Tech Computer Science student at GLS University (2023-2027, 8.75 CGPA) focused on AI/ML, full-stack engineering, enterprise software, and blockchain. I design and ship scalable applications and intelligent automation for real-world problems, from hackathon-winning AI systems to a funded Web3 startup.
 
 ## 💼 Experience & Leadership
 
-*   **Founder** — *CarbonVerse (Web3 Sustainability Startup)* `2025 – Present`
-    *   *PIERC Cohort 9 Incubation, Parul University | Startup Grant Winner*
-    *   Founded and lead a Web3-based carbon tracking startup awarded a seed grant. Leading product design, full-stack development, and go-to-market strategy for a blockchain-powered carbon credit platform. (Finalist, Vadodara Startup Festival 6.0).
-*   **AI/ML Intern** — *Cygnet.one* `June 2026 – July 2026`
-    *   Developed and optimized AI/ML models, automated business workflows, and deployed cognitive solutions under industry mentorship.
-*   **ACM Membership Chair** — *GLS University Student Chapter* `2025 – Present`
-    *   Elected to lead the university's ACM chapter; organizing technical events, workshops, and mentorship programs for 200+ active members. Also an active IEEE Student Member.
+| Role | Organization | Timeline |
+|---|---|---|
+| **Founder & CEO** | [CarbonVerse](https://github.com/KAVYAJOSHI1/CARBONCRED): Web3 sustainability startup, PIERC Cohort 9 incubation & seed grant winner | 2025 - Present |
+| **AI/ML & Full-Stack Intern** | Cygnet.One: AI/ML models, workflow automation, cognitive solutions | Jun 2026 - Jul 2026 |
+| **Membership Chair** | ACM, GLS University Student Chapter (200+ members) · IEEE Student Member | 2025 - Present |
+
+## 🚀 Featured Projects
+
+| Project | What it does | Tech Stack | Highlight |
+|---|---|---|---|
+| [**CoastScan**](https://github.com/KAVYAJOSHI1/CoastScan) | End-to-end AI & IoT platform for coastal sediment analysis with real-time telemetry | Python · OpenCV · Django · AWS · PostgreSQL | 🥇 SIH 2025 National Winner |
+| [**AI-Powered Fraud Detection**](https://github.com/KAVYAJOSHI1/AI-Powered-Fraud-Detection-System) | Real-time anomaly detection engine for high-frequency financial transactions | Python · Django · TensorFlow · MongoDB | 🥇 Breach 2025 FinTech Hackathon Winner |
+| [**IoT Security Solution**](https://github.com/KAVYAJOSHI1/IoT-Security-Solution) | Software-defined security framework with cryptographic protocols and AI threat detection | C++ · Embedded Systems · MQTT | 🥇 DRDO Sampada 2025 Winner |
+| [**Sentinel GEC**](https://github.com/KAVYAJOSHI1/GEC) | AI retail security system cross-referencing video feeds with POS logs; blockchain-anchored audit trail | Python · Computer Vision · Solidity | 🏅 Hack.X, Top 12 Finalist |
+| [**CarbonVerse**](https://github.com/KAVYAJOSHI1/CARBONCRED) | AI-verified carbon credit marketplace; geo-tagged tree photos to on-chain credit minting | Python · Django · Solidity | 🏆 PIERC Incubated Startup |
+| [**VeriCred**](https://github.com/KAVYAJOSHI1/VeriCred) | Privacy-preserving credit scoring using ZKML; local proof generation, on-chain verification | PyTorch · Solidity · EZKL · Web3.js | Zero-Knowledge ML on-chain |
+| [**L3M**](https://github.com/KAVYAJOSHI1/L3M) | Privacy-first offline AI assistant with custom Model Context Protocol orchestration | Go · Python · React · Qdrant · Ollama · MCP | Local-first agentic AI |
+| [**Smart Manufacturing ERP**](https://github.com/KAVYAJOSHI1/ERP) | Event-driven microservices ERP for procurement, inventory, and finance | Go · Node.js · Next.js · Kafka · PostgreSQL · Redis | Enterprise-grade architecture |
+
+<details>
+<summary><b>More Projects</b></summary>
+<br />
+
+| Project | What it does | Tech Stack | Highlight |
+|---|---|---|---|
+| [**GeoAnushasan**](https://github.com/KAVYAJOSHI1/GeoAnushasan) | Smart city digital twin integrating weather, AQI, and traffic telemetry | Python · Firebase · n8n · REST APIs | 🏅 Ingenium 2026 Finalist |
+| [**EcoScan**](https://github.com/KAVYAJOSHI1/Greenwashing-Detector) | Greenwashing detector analyzing product claims from photos and URLs | Python · Flask · Google Vision API · Hugging Face | - |
+| [**LocalMinds**](https://github.com/KAVYAJOSHI1/LOCALMINDS) | Sovereign, 100% offline AI companion with on-device inference and local RAG | Flutter · MediaPipe · Python | - |
+| [**MilletSetu**](https://github.com/KAVYAJOSHI1/MilletSetu-Blockchain) | Transparent Ethereum-based supply chain for millet farmers | Solidity · React · Ethers.js | - |
+| [**UrjaSetu**](https://github.com/KAVYAJOSHI1/UrjaSetu-GUVNL-Platform) | AI-based grievance and asset management platform for GUVNL | React · Django · PostgreSQL | 🏅 SSIP Gujarat Finalist |
+| [**NexOS**](https://github.com/KAVYAJOSHI1/NexOS) | Local-first browser AI agent that drafts replies in the user's voice | JavaScript · Chrome Extension · n8n · Gemini | - |
+| [**Tribekart**](https://github.com/KAVYAJOSHI1/TRIBEKART) | Full-stack marketplace connecting artisans with buyers | React Native · Firebase · Firestore | - |
+| [**SportSpot**](https://github.com/KAVYAJOSHI1/SportSpot) | Turf booking and management platform for players and turf owners | Django · React Native · Expo | - |
+| [**IC Scanner**](https://github.com/KAVYAJOSHI1/IC-SCANNER) | Computer vision tool to detect counterfeit integrated circuits on manufacturing lines | Python · OpenCV · TensorFlow · Flask | - |
+| [**Flash Mentor**](https://github.com/KAVYAJOSHI1/flash-mentor) | AI learning platform with roadmap planner, skill tracker, and interview coach | React · TypeScript · Flask · Gemini AI | - |
+| [**Anantam Finserv**](https://github.com/KAVYAJOSHI1/ANANTAM_WEBSITE) | Financial services platform with auth and admin dashboard | Python · Django · SQLite | - |
+
+</details>
 
 ## 🏆 Awards & Recognition
 
-*   🥇 **National Winner** — Smart India Hackathon (SIH) 2025 *(CoastScan)*
-*   🥇 **Winner** — DRDO DIA-SVPCoE Hackathon 'Sampada 2025' *(IoT Security Domain)*
-*   🥇 **1st Place (Winner)** — Breach 2025 FinTech Hackathon, PDEU *(AI Fraud Detection)*
-*   🏆 **Startup Grant Winner, Cohort 9** — PIERC Incubation, Parul University *(CarbonVerse)*
-*   ⭐ **LeetCode Expert** — Top 2.5% Globally (601 Problems Solved: 148 Hard, 282 Medium, 171 Easy)
-*   🏅 **Finalist** — Ingenious Hackathon 7.0 (Ingenium 2026), SSIP Gujarat Hackathon 2025, & GEC Hack.X
-*   🏆 **2× GLS Internal Hackathon Champion** (1st Place 2024, 2nd Place 2025)
+- 🥇 **National Winner**, Smart India Hackathon 2025 *(CoastScan)*
+- 🥇 **Winner**, DRDO DIA-SVPCoE Hackathon 'Sampada 2025' *(IoT Security)*
+- 🥇 **1st Place**, Breach 2025 FinTech Hackathon, PDEU *(AI Fraud Detection)*
+- 🏆 **Startup Grant Winner, Cohort 9**, PIERC Incubation, Parul University *(CarbonVerse)*
+- 🏅 **Finalist**, Hack.X / HackTheSpring '26 (Top 12), Ingenium 2026, SSIP Gujarat Hackathon 2025, Parul Ideathon 2026
+- 🏆 **2× GLS Internal Hackathon Champion** (1st Place 2024, 2nd Place 2025)
+- ⭐ **LeetCode Expert**, Top 2.5% globally, 610+ problems solved
 
 ## 💻 Technical Skills
 
-*   **Languages:** Python, JavaScript, TypeScript, Java, C++, Solidity, SQL
-*   **Frameworks & Libraries:** React, React Native, Flutter, Django, Flask, FastAPI, Node.js, TensorFlow, PyTorch
-*   **Databases:** PostgreSQL, MongoDB, Firebase
-*   **Tools & Cloud:** AWS, Docker, Git
-*   **Core Competencies:** DSA & Algorithms, AI/ML, ZKML, REST APIs, Blockchain/Web3
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-## 🚀 Key Projects
+**Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-*   **CoastScan:** AI Sand Classification System *[SIH 2025 National Winner]* (TensorFlow, Python, Cloud)
-*   **VeriCred:** Privacy-Preserving ZKML Credit Scoring (PyTorch, Solidity, EZKL, Web3.js)
-*   **L3M:** Privacy-Preserving Local AI Assistant (Go, Python, React, PostgreSQL, Qdrant, Ollama, MCP)
-*   **AI-Powered Fraud Detection System:** *[Breach 2025 1st Place]* (Python, Django, TensorFlow, MongoDB)
-*   **IoT Security Solution:** *[DRDO Sampada 2025 Winner]* (C++, Embedded Systems)
-*   **EcoScan:** Greenwashing Detector platform using Google Vision API and Hugging Face Transformers
-*   **GeoAnushasan:** Smart City Digital Twin *[Ingenium 2026 Finalist]* (Python, Firebase, n8n, REST APIs)
-*   **LocalMinds:** Sovereign Offline AI Agent (Flutter, MediaPipe, Python)
+**Databases & Infra**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Core Competencies:** Data Structures & Algorithms · AI/ML · ZKML · REST APIs · Blockchain/Web3
+
+## 📄 Certifications
+
+Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate · AWS Academy Cloud Foundations · GitHub Foundations · PIERC Startup Pre-Incubation Program · Wadhwani Ignite Bootcamp
 
 <br />
 
+<div align="center">
+
+**Open to full-time and internship opportunities in AI/ML and full-stack engineering.**
+Reach out via [email](mailto:kavyajoshi152005@gmail.com) or [LinkedIn](https://linkedin.com/in/kavya-joshi-3765742b0).
+
+</div>
