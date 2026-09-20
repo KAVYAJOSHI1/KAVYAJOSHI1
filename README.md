@@ -176,19 +176,28 @@ Final-year **Computer Science & Engineering** student at **GLS University** (CGP
 
 ---
 
-## 📊 LeetCode & GitHub Statistics
+## 📊 LeetCode & GitHub Insights
 
 <div align="center">
 
-<a href="https://leetcode.com/u/JoshiKavya/">
-  <img src="https://leetcard.jacoblin.cool/JoshiKavya?theme=dark&font=Syne&ext=contest" alt="Kavya Joshi LeetCode Stats" height="200" />
+<a href="https://leetcode.com/u/JoshiKavya/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/JoshiKavya?theme=dark&font=Syne&ext=contest" alt="Kavya Joshi LeetCode Stats" height="195" />
 </a>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=KAVYAJOSHI1&show_icons=true&theme=dark&hide_border=false" alt="Kavya Joshi GitHub Stats" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVYAJOSHI1&layout=compact&theme=dark&hide_border=false" alt="Top Languages" height="175"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KAVYAJOSHI1&theme=dark&hide_border=false" alt="GitHub Streak" height="175"/>
+<a href="https://github.com/KAVYAJOSHI1" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=KAVYAJOSHI1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kavya Joshi GitHub Stats" height="175" />
+</a>
+<a href="https://github.com/KAVYAJOSHI1" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVYAJOSHI1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="175" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/KAVYAJOSHI1" target="_blank">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KAVYAJOSHI1&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="175" />
+</a>
 
 </div>
 
