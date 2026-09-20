@@ -97,7 +97,7 @@ Final-year **Computer Science & Engineering** student at **GLS University** (CGP
   - Offline-first edge activity monitoring platform for astronauts in microgravity environments utilizing YOLO11 object detection, RTMPose skeleton tracking, MediaPipe 21-point hand tracking, and a deterministic FSM validation engine.
 - **[Incident AI](https://github.com/KAVYAJOSHI1/INCIDENTAI)** — *Automated AI Emergency Dispatch & Incident Management*
   - Real-time emergency response platform using multi-modal AI agents to process incident signals, score severity, and trigger automated officer dispatch.
-- **[Globle Trotter / Odoo Hackathon](https://github.com/KAVYAJOSHI1)** — *Odoo-Integrated AI Travel & Expense Ecosystem* **(LDCE Globe Trotter Hackathon)**
+- **[GlobeTrotter](https://github.com/KAVYAJOSHI1/GLOBE-TROTTER)** — *Odoo-Integrated AI Travel & Expense Ecosystem* **(LDCE Globe Trotter Hackathon)**
   - Full-stack AI itinerary generator, multi-destination budget estimator, and automated hotel/flight booking engine integrated into Odoo ERP workflows.
 - **[Smart Manufacturing ERP Platform](https://github.com/KAVYAJOSHI1/ERP)** — *Event-Driven Supply Chain Architecture*
   - Enterprise-grade ERP microservices platform featuring Kafka outbox pattern, Node.js API Gateway, Next.js dashboard, PostgreSQL, Redis caching, and Docker Compose orchestration.
