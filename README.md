@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Kavya Joshi
+# ⚡ Kavya Joshi
 
 ### **Embedded Engineer @ eInfochips (An Arrow Company)**  
 #### **AI & Software Developer • National Hackathon Winner • Startup Founder**
@@ -74,12 +74,12 @@ Final-year **Computer Science & Engineering** student at **GLS University** (CGP
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages** | `Python` `C++` `JavaScript` `TypeScript` `Java` `Solidity` `Go` `SQL` |
-| **Embedded & IoT** | `Embedded C/C++` `IoT Firmware` `Binwalk` `Vulnerability Scanning` `Hardware Integration` |
-| **AI / ML & Vision** | `PyTorch` `TensorFlow` `OpenCV` `scikit-learn` `MediaPipe` `EZKL (ZKML)` `Hugging Face` `Qdrant RAG` `Ollama` |
-| **Full Stack & Mobile** | `React` `Next.js` `React Native` `Flutter` `Django` `Flask` `FastAPI` `Node.js` `Express` `Angular` |
-| **Databases & Messaging**| `PostgreSQL` `MongoDB` `Firebase` `Firestore` `Redis` `Apache Kafka` `SQLAlchemy` |
-| **Cloud & DevOps** | `AWS` `Oracle Cloud (OCI)` `Docker` `Git` `GitHub Actions` `Linux / Shell` `n8n` `Jira` |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Embedded & IoT** | ![Embedded C/C++](https://img.shields.io/badge/Embedded_C%2F%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![IoT Firmware](https://img.shields.io/badge/IoT_Firmware-008080?style=for-the-badge&logo=microchip&logoColor=white) ![Binwalk](https://img.shields.io/badge/Binwalk-4B0082?style=for-the-badge&logo=linux&logoColor=white) ![Vulnerability Scanning](https://img.shields.io/badge/Vulnerability_Scanning-DC2626?style=for-the-badge&logo=kali-linux&logoColor=white) ![Hardware Integration](https://img.shields.io/badge/Hardware_Integration-2E8B57?style=for-the-badge&logo=arduino&logoColor=white) |
+| **AI / ML & Vision** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-00979D?style=for-the-badge&logo=google&logoColor=white) ![EZKL (ZKML)](https://img.shields.io/badge/EZKL_(ZKML)-8A2BE2?style=for-the-badge&logo=ethereum&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Qdrant RAG](https://img.shields.io/badge/Qdrant_Vector_DB-DC2626?style=for-the-badge&logo=qdrant&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) |
+| **Full Stack & Mobile** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) |
+| **Databases & Messaging**| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-webservices&logoColor=white) ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) |
 
 </div>
 
@@ -180,20 +180,15 @@ Final-year **Computer Science & Engineering** student at **GLS University** (CGP
 
 <div align="center">
 
-```
-  ┌─────────────────────────────────────────────────────────────┐
-  │ 🧠 LeetCode Profile: @JoshiKavya                             │
-  │ 🏆 Rank: Top 2.5% Globally                                  │
-  │ 🎯 Total Solved: 610+ Problems                              │
-  │ 🟢 Easy: 171  │  🟡 Medium: 291  │  🔴 Hard: 148            │
-  │ 🔥 Beats 98.8% of global submissions on Hard problems       │
-  └─────────────────────────────────────────────────────────────┘
-```
+<a href="https://leetcode.com/u/JoshiKavya/">
+  <img src="https://leetcard.jacoblin.cool/JoshiKavya?theme=dark&font=Syne&ext=contest" alt="Kavya Joshi LeetCode Stats" height="200" />
+</a>
 
-<br>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=KAVYAJOSHI1&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="Kavya Joshi GitHub Stats" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVYAJOSHI1&layout=compact&theme=synthwave&hide_border=true&hide=html,css" alt="Top Languages" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KAVYAJOSHI1&show_icons=true&theme=dark&hide_border=false" alt="Kavya Joshi GitHub Stats" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVYAJOSHI1&layout=compact&theme=dark&hide_border=false" alt="Top Languages" height="175"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KAVYAJOSHI1&theme=dark&hide_border=false" alt="GitHub Streak" height="175"/>
 
 </div>
 
