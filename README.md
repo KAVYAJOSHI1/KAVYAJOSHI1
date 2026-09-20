@@ -1,23 +1,9 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Kavya%20Joshi&fontSize=56&fontColor=ffffff&animation=twinkling" width="100%" />
+# Kavya Joshi
 
-<br><br>
-
-<!-- Circular Profile Picture -->
-<a href="https://kavyajoshi1.github.io">
-  <img src="https://github.com/KAVYAJOSHI1.png?size=160" width="140" height="140" align="center" style="border-radius: 50%; border: 3px solid #38BDF8;" alt="Kavya Joshi Profile Picture" />
-</a>
-
-<br><br>
-
-<!-- Dynamic Typing Animation Subtitle -->
-<a href="https://github.com/KAVYAJOSHI1">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Embedded+Engineer+%40+eInfochips+(An+Arrow+Company);AI+%26+Full-Stack+Software+Developer;National+Winner%3A+SIH+2025+%26+DRDO+Sampada;Founder+%40+CarbonVerse+(PIERC+Incubated);LeetCode+Expert+(Top+2.5%25+Globally)" alt="Typing Animation Header" />
-</a>
-
-<br><br>
+### **Embedded Engineer @ eInfochips (An Arrow Company)**  
+#### **AI & Software Developer • National Hackathon Winner • Startup Founder**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavya-joshi-3765742b0)
 [![Portfolio](https://img.shields.io/badge/Portfolio-kavyajoshi1.github.io-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kavyajoshi1.github.io)
