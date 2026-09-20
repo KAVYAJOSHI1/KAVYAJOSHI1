@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Kavya Joshi
+# Kavya Joshi
 
 ### **Embedded Engineer @ eInfochips (An Arrow Company)**  
 #### **AI & Software Developer • National Hackathon Winner • Startup Founder**
@@ -14,61 +14,61 @@
 
 </div>
 
-## 📌 Executive Summary
+## Executive Summary
 
-Final-year **Computer Science & Engineering** student at **GLS University** (CGPA: 8.75/10) with hands-on expertise building embedded firmware, scalable AI pipelines, privacy-preserving systems, and cloud-native software. Passionate about hardware-software co-design, distributed architecture, and AI-driven automation.
+Final-year **Computer Science & Engineering** student at **GLS University** (CGPA: **8.75 / 10**) with hands-on expertise building embedded firmware, scalable AI pipelines, privacy-preserving systems, and cloud-native software. Focused on hardware-software co-design, distributed architecture, and enterprise AI automation.
 
-* 🏢 **Current Status**: Campus Placed as **Embedded Engineer** at **eInfochips (An Arrow Company)**.
-* 💼 **Industry Experience**: **AI/ML & Full Stack Intern** at **Cygnet.One**.
-* 🏆 **Hackathon Victories**: National Winner of **Smart India Hackathon (SIH 2025)**, **DRDO Sampada 2025**, and **Breach FinTech 2025**.
-* 🚀 **Entrepreneurship**: Founder & Lead Architect of **CarbonVerse** (Incubated in PIERC Cohort 9 with Seed Funding Grant).
-* ⚡ **Competitive Programming**: **LeetCode Expert** (Top 2.5% Globally, 610+ Problems Solved, Beats 98.8% on Hard Problems).
+* **Current Status**: Campus Placed as **Embedded Engineer** at **eInfochips (An Arrow Company)**.
+* **Industry Experience**: **AI/ML & Full Stack Intern** at **Cygnet.One**.
+* **National Recognition**: National Winner of **Smart India Hackathon (SIH 2025)**, **DRDO Sampada 2025**, and **Breach FinTech 2025**.
+* **Entrepreneurship**: Founder & Lead Architect of **CarbonVerse** (Incubated in PIERC Cohort 9 with Seed Funding Grant).
+* **Competitive Programming**: **LeetCode Expert** (Top **2.5%** Globally | **610+** Solved | Beats **98.8%** on Hard Problems).
 
 ---
 
-## 💼 Professional Experience & Work History
+## Professional Experience
 
-### 🏢 Embedded Engineer — eInfochips (An Arrow Company)
+### Embedded Engineer — eInfochips (An Arrow Company)
 **Role**: Embedded Engineer *(Campus Placement)*  
 * **Specialization**: Embedded Systems Engineering, IoT Firmware Development, Hardware-Software Integration, and Real-Time Systems.
-* **Core Focus**: Low-level firmware engineering, hardware peripherals, board bring-up, and real-time sensor data telemetry for enterprise IoT solutions.
+* **Core Focus**: Low-level firmware engineering, hardware peripheral optimization, board bring-up, and real-time sensor telemetry for enterprise IoT deployments.
 
-### 💼 AI/ML & Full Stack Intern — Cygnet.One
+### AI/ML & Full Stack Intern — Cygnet.One
 **Role**: AI/ML & Full Stack Intern *(June 2026 – July 2026)*  
-* **Enterprise AI & SDLC Automation**: Built enterprise-grade AI automation agents for Jira & HR workflow integration.
-* **Backend Architecture**: Engineered FastAPI backend microservices supporting REST APIs, OAuth authentication, HTTPS/TLS, AES-RSA encryption, dynamic JSON rendering, and Angular frontend integration.
+* **Enterprise AI & SDLC Automation**: Engineered enterprise AI automation agents for Jira and HR workflow integration.
+* **Backend Architecture**: Developed FastAPI backend microservices supporting REST APIs, OAuth authentication, HTTPS/TLS, AES-RSA encryption, dynamic JSON rendering, and Angular frontend integration.
 
-### 🌱 Founder & Lead Architect — CarbonVerse (ClimateTech Startup)
+### Founder & Lead Architect — CarbonVerse (ClimateTech Startup)
 **Role**: Founder *(2025 – Present)* | **Incubation**: PIERC Cohort 9, Parul University  
 * **Platform Architecture**: Designed an AI-verified carbon credit marketplace combining satellite computer vision with on-chain credit minting on Ethereum Sepolia.
 * **Incubation & Grant**: Selected for the **PIERC Cohort 9 Incubation Program** and secured non-dilutive seed startup funding.
 
-### 👨‍💻 Membership Chair — ACM Student Chapter & IEEE Member
+### Membership Chair — ACM Student Chapter & IEEE Member
 **Role**: ACM Membership Chair *(GLS University)*  
-* Technical community leadership fostering hands-on development for **200+ members**. Organized workshops, competitive coding challenges, and Track 3 at CyberShadez 2026 ("Rise of Agent").
+* Technical community leadership fostering hands-on software development for **200+ members**. Organized technical workshops, hackathons, and Track 3 at CyberShadez 2026 ("Rise of Agent").
 
 ---
 
-## 🏆 National Achievements & Recognition
+## Key Achievements & Recognition
 
-| Award / Recognition | Event / Issuer | Highlights |
+| Award / Milestone | Organization / Event | Key Details |
 | :--- | :--- | :--- |
-| 🥇 **SIH 2025 National Winner** | Smart India Hackathon | Won 1st place nationally for **CoastScan**, an AI-driven beach sand grain classification system. |
-| 🛡️ **DRDO Hackathon Winner** | DRDO DIA-SVPCoE Sampada 2025 | 1st Place in **IoT Security** for automated firmware binary vulnerability scanning & extraction. |
-| 💰 **Breach 2025 Winner** | Breach FinTech Hackathon, PDEU | 1st Place for real-time AI anomaly & fraud detection engine in high-frequency transactions. |
-| 🚀 **ISRO Hackathon Solution** | Bhartiya Antariksh Hackathon | Built End-to-End Lunar Mission Planning System analyzing DFSAR radar & OHRC imagery for lunar ice volume estimation. |
-| ⭐ **2x Internal Winner** | GLS University (2024 & 2025) | Two-time Champion across annual university-wide internal hackathons. |
-| 💡 **Outstanding Innovation Award** | GLS Incubation Centre | Recognized for outstanding product innovation & enterprise viability with CoastScan. |
-| 🥈 **Hack.X Top 12 Finalist** | GEC Gandhinagar | Placed Top 12 among 70+ teams for Sentinel GEC AI & Sepolia blockchain audit system. |
-| 🏙️ **Ingenium 2026 Finalist** | Ahmedabad University | Finalist for GeoAnushasan smart city digital twin platform. |
-| ⚡ **SSIP State Finalist** | SSIP Gujarat Hackathon 2025 | State-level finalist for UrjaSetu AI GUVNL feedback platform. |
-| 🚀 **Parul Ideathon Finalist** | Vadodara Startup Festival 6.0 | Led Team CarbonVerse to final pitch round for Web3 climate technology. |
-| 🎯 **HackOut'25 & '26 Finalist** | DA-IICT Gandhinagar | Finalist in back-to-back editions of DA-IICT's flagship hackathon (Team Caffeine Clause). |
-| 🏔️ **Bhrigu Lake Alpine Summit** | Kullu Himalayas (4,300m / 14,100ft) | 1 of only 4 climbers out of 50 to complete summit during live alpine thunderstorm. |
+| **SIH 2025 National Winner** | Smart India Hackathon | **1st Place Nationally** for CoastScan (AI Beach Sand Classification System). |
+| **DRDO Hackathon Winner** | DRDO DIA-SVPCoE Sampada 2025 | **1st Place** in IoT Security for automated firmware binary vulnerability scanning. |
+| **Breach 2025 Winner** | Breach FinTech Hackathon, PDEU | **1st Place** for real-time AI anomaly & fraud detection engine in high-frequency trading. |
+| **ISRO Hackathon Solution** | Bhartiya Antariksh Hackathon | Engineered Lunar Mission Planning System analyzing DFSAR radar & OHRC telemetry. |
+| **2x Internal Hackathon Champion** | GLS University (2024 & 2025) | Two-time Champion across annual university-wide internal hackathons. |
+| **Outstanding Innovation Award** | GLS Incubation Centre | Recognized for outstanding product innovation & enterprise viability with CoastScan. |
+| **Hack.X Top 12 Finalist** | GEC Gandhinagar | Placed **Top 12 out of 70+ teams** for Sentinel GEC AI & Sepolia audit system. |
+| **Ingenium 2026 Finalist** | Ahmedabad University | Finalist for GeoAnushasan smart city digital twin governance platform. |
+| **SSIP State Finalist** | SSIP Gujarat Hackathon 2025 | State-level finalist for UrjaSetu AI GUVNL feedback platform. |
+| **Parul Ideathon Finalist** | Vadodara Startup Festival 6.0 | Led Team CarbonVerse to final pitch round for Web3 climate technology. |
+| **HackOut '25 & '26 Finalist** | DA-IICT Gandhinagar | Finalist in back-to-back editions of DA-IICT's flagship hackathon (Team Caffeine Clause). |
+| **Bhrigu Lake Alpine Summit** | Kullu Himalayas (4,300m / 14,100ft) | **1 of 4 climbers out of 50** to complete summit during live alpine thunderstorm. |
 
 ---
 
-## 🛠️ Technical Stack & Expertise
+## Technical Stack & Competencies
 
 <div align="center">
 
@@ -85,10 +85,10 @@ Final-year **Computer Science & Engineering** student at **GLS University** (CGP
 
 ---
 
-## 🚀 Featured Projects
+## Featured Engineering Projects
 
 <details open>
-<summary><b>🔥 Flagship & Recent Enterprise AI / Security Projects</b></summary>
+<summary><b>Enterprise Systems & Government Analytics</b></summary>
 <br>
 
 - **[Gujarat Sentinel](https://github.com/KAVYAJOSHI1/GUJARAT-SENTINEL-)** — *CCTV Integration & Video Analytics Platform* **(Gujarat Police Innovation Hackathon 2026)**
@@ -111,7 +111,7 @@ Final-year **Computer Science & Engineering** student at **GLS University** (CGP
 </details>
 
 <details>
-<summary><b>🤖 AI/ML, Autonomous Systems & Privacy Tech</b></summary>
+<summary><b>AI/ML, Autonomous Systems & Edge Perception</b></summary>
 <br>
 
 - **[VeriCred](https://github.com/KAVYAJOSHI1/VeriCred)** — *Privacy-Preserving ZKML Credit Scoring Engine*
@@ -136,7 +136,7 @@ Final-year **Computer Science & Engineering** student at **GLS University** (CGP
 </details>
 
 <details>
-<summary><b>🌐 Enterprise Web, Web3 & Mobile Applications</b></summary>
+<summary><b>Web3, ClimateTech & Full Stack Applications</b></summary>
 <br>
 
 - **[CarbonVerse](https://github.com/KAVYAJOSHI1/CARBONCRED)** — *Decentralized Carbon Credit Marketplace* **(PIERC Incubated)**
@@ -156,31 +156,31 @@ Final-year **Computer Science & Engineering** student at **GLS University** (CGP
 
 ---
 
-## 📜 Certifications & Verified Credentials
+## Professional Certifications & Credentials
 
 <div align="center">
 
-### 🎓 Professional Credentials Matrix
+### Credentials Verification Matrix
 
-| Icon | Certificate Name | Issuing Organization | Verification Badge |
+| Category | Certificate Name | Issuing Body | Status / Verification |
 | :---: | :--- | :--- | :---: |
-| ☁️ | **Oracle Cloud Infrastructure 2025 AI Foundations Associate** | Oracle | ![Oracle](https://img.shields.io/badge/Oracle-Certified-F80000?style=flat-square&logo=oracle&logoColor=white) |
-| ☁️ | **AWS Academy Graduate – Cloud Foundations** | Amazon Web Services | ![AWS](https://img.shields.io/badge/AWS-Certified-232F3E?style=flat-square&logo=amazon-webservices&logoColor=white) |
-| 🤖 | **ROBO-AI: 30-Day Industrial Training on Robotics & AI Simulation** | NVIDIA & Microsoft (My Equation) | ![NVIDIA](https://img.shields.io/badge/NVIDIA%20%26%20Microsoft-Ratified-76B900?style=flat-square&logo=nvidia&logoColor=white) |
-| ⚡ | **Agile Scrum Master Certification** | Simplilearn | ![Agile](https://img.shields.io/badge/Agile-Scrum%20Master-0052CC?style=flat-square&logo=scrumalliance&logoColor=white) |
-| 🐙 | **GitHub Foundations Certification** | GitHub | ![GitHub](https://img.shields.io/badge/GitHub-Foundations-181717?style=flat-square&logo=github&logoColor=white) |
-| 📊 | **Microsoft Learning Path: Dashboard in a Day (Power BI)** | Microsoft | ![Microsoft](https://img.shields.io/badge/Microsoft-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
-| 🧠 | **Foundation Course on Green Skills & Artificial Intelligence** | Edunet Foundation | ![Edunet](https://img.shields.io/badge/Edunet-Certified-00979D?style=flat-square&logo=google&logoColor=white) |
-| 🚀 | **Startup Pre-Incubation Program** | PIERC, Parul University | ![PIERC](https://img.shields.io/badge/PIERC-Incubated-FF6D5A?style=flat-square&logo=rocket&logoColor=white) |
-| 💡 | **Ignite Bootcamp: Idea to Plan** | Wadhwani Foundation | ![Wadhwani](https://img.shields.io/badge/Wadhwani-Ignite-FF9900?style=flat-square&logo=lightbulb&logoColor=white) |
-| 📐 | **Innovation, Design & Entrepreneurship (IDE) Bootcamp** | AICTE & Ministry of Education | ![AICTE](https://img.shields.io/badge/AICTE-Ministry%20of%20Education-00599C?style=flat-square) |
-| ⛓️ | **Mentorship Program on Blockchain / Bitcoin** | LaunchED Global | ![Blockchain](https://img.shields.io/badge/Blockchain-Mentorship-F7931A?style=flat-square&logo=bitcoin&logoColor=white) |
-| 📋 | **How to Create a Jira SCRUM Project** | Coursera Project Network | ![Coursera](https://img.shields.io/badge/Coursera-Scrum-0056D2?style=flat-square&logo=coursera&logoColor=white) |
+| **Cloud & AI** | **Oracle Cloud Infrastructure 2025 AI Foundations Associate** | Oracle | ![Oracle](https://img.shields.io/badge/Oracle-Certified-F80000?style=flat-square&logo=oracle&logoColor=white) |
+| **Cloud & AI** | **AWS Academy Graduate – Cloud Foundations** | Amazon Web Services | ![AWS](https://img.shields.io/badge/AWS-Certified-232F3E?style=flat-square&logo=amazon-webservices&logoColor=white) |
+| **Robotics & AI** | **ROBO-AI: 30-Day Industrial Training on Robotics & AI Simulation** | NVIDIA & Microsoft | ![NVIDIA](https://img.shields.io/badge/NVIDIA%20%26%20Microsoft-Ratified-76B900?style=flat-square&logo=nvidia&logoColor=white) |
+| **Agile** | **Agile Scrum Master Certification** | Simplilearn | ![Agile](https://img.shields.io/badge/Agile-Scrum%20Master-0052CC?style=flat-square&logo=scrumalliance&logoColor=white) |
+| **DevOps** | **GitHub Foundations Certification** | GitHub | ![GitHub](https://img.shields.io/badge/GitHub-Foundations-181717?style=flat-square&logo=github&logoColor=white) |
+| **Analytics** | **Microsoft Learning Path: Dashboard in a Day (Power BI)** | Microsoft | ![Microsoft](https://img.shields.io/badge/Microsoft-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
+| **Green Tech** | **Foundation Course on Green Skills & Artificial Intelligence** | Edunet Foundation | ![Edunet](https://img.shields.io/badge/Edunet-Certified-00979D?style=flat-square&logo=google&logoColor=white) |
+| **Venture** | **Startup Pre-Incubation Program** | PIERC, Parul University | ![PIERC](https://img.shields.io/badge/PIERC-Incubated-FF6D5A?style=flat-square&logo=rocket&logoColor=white) |
+| **Business** | **Ignite Bootcamp: Idea to Plan** | Wadhwani Foundation | ![Wadhwani](https://img.shields.io/badge/Wadhwani-Ignite-FF9900?style=flat-square&logo=lightbulb&logoColor=white) |
+| **Design** | **Innovation, Design & Entrepreneurship (IDE) Bootcamp** | AICTE & Ministry of Education | ![AICTE](https://img.shields.io/badge/AICTE-Ministry%20of%20Education-00599C?style=flat-square) |
+| **Blockchain** | **Mentorship Program on Blockchain / Bitcoin** | LaunchED Global | ![Blockchain](https://img.shields.io/badge/Blockchain-Mentorship-F7931A?style=flat-square&logo=bitcoin&logoColor=white) |
+| **Scrum** | **How to Create a Jira SCRUM Project** | Coursera Project Network | ![Coursera](https://img.shields.io/badge/Coursera-Scrum-0056D2?style=flat-square&logo=coursera&logoColor=white) |
 
 </div>
 
 <details>
-<summary><b>📜 Click to view all 30+ Certifications & Documents</b></summary>
+<summary><b>Complete Credentials Archive (30+ Certificates & Transcripts)</b></summary>
 <br>
 
 1. **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** — *Oracle*
@@ -200,7 +200,7 @@ Final-year **Computer Science & Engineering** student at **GLS University** (CGP
 
 ---
 
-## 📊 LeetCode & GitHub Insights
+## Competitive Programming & GitHub Insights
 
 <div align="center">
 
@@ -229,13 +229,13 @@ Final-year **Computer Science & Engineering** student at **GLS University** (CGP
 
 <div align="center">
 
-### 🤝 Let's Connect & Collaborate!
+### Contact & Links
 
 [![Email](https://img.shields.io/badge/Email-kavyajoshi152005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavyajoshi152005@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kavya%20Joshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavya-joshi-3765742b0)
 [![Website](https://img.shields.io/badge/Portfolio-kavyajoshi1.github.io-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kavyajoshi1.github.io)
 [![LeetCode](https://img.shields.io/badge/LeetCode-JoshiKavya-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/JoshiKavya/)
 
-*Built with passion, precision, and relentless curiosity.*
+*Computer Science & Engineering • Embedded Systems & AI Pipelines*
 
 </div>
