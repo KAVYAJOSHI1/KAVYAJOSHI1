@@ -16,7 +16,7 @@
 
 ## Executive Summary
 
-Final-year **Computer Science & Engineering** student at **GLS University** (CGPA: **8.75 / 10**) with hands-on expertise building embedded firmware, scalable AI pipelines, privacy-preserving systems, and cloud-native software. Focused on hardware-software co-design, distributed architecture, and enterprise AI automation.
+Final-year **Computer Science & Engineering** student at **GLS University** (CGPA: **8.92 / 10**) with hands-on expertise building embedded firmware, scalable AI pipelines, privacy-preserving systems, and cloud-native software. Focused on hardware-software co-design, distributed architecture, and enterprise AI automation.
 
 * **Current Status**: Campus Placed as **Embedded Engineer** at **eInfochips (An Arrow Company)**.
 * **Industry Experience**: **AI/ML & Full Stack Intern** at **Cygnet.One**.
