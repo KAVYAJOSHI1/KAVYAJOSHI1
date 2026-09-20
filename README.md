@@ -31,7 +31,7 @@ Final-year **Computer Science & Engineering** student at **GLS University** (CGP
 ### 🏢 Embedded Engineer — eInfochips (An Arrow Company)
 **Role**: Embedded Engineer *(Campus Placement)*  
 * **Specialization**: Embedded Systems Engineering, IoT Firmware Development, Hardware-Software Integration, and Real-Time Systems.
-* **Core Focus**: Designing low-level firmware, optimizing hardware peripherals, board bring-up, and real-time sensor data telemetry for enterprise IoT solutions.
+* **Core Focus**: Low-level firmware engineering, hardware peripherals, board bring-up, and real-time sensor data telemetry for enterprise IoT solutions.
 
 ### 💼 AI/ML & Full Stack Intern — Cygnet.One
 **Role**: AI/ML & Full Stack Intern *(June 2026 – July 2026)*  
@@ -88,34 +88,44 @@ Final-year **Computer Science & Engineering** student at **GLS University** (CGP
 ## 🚀 Featured Projects
 
 <details open>
-<summary><b>🔥 Flagship Projects & Hackathon Champions</b></summary>
+<summary><b>🔥 Flagship & Recent Enterprise AI / Security Projects</b></summary>
 <br>
 
+- **[Gujarat Sentinel](https://github.com/KAVYAJOSHI1/GUJARAT-SENTINEL-)** — *CCTV Integration & Video Analytics Platform* **(Gujarat Police Innovation Hackathon 2026)**
+  - Advanced CCTV analytics platform prototype for Gujarat Police featuring RTSP video ingestion, YOLOv8 vehicle detection + ANPR, EasyOCR multi-frame consensus, cross-camera ByteTrack spatial-temporal re-identification, PostGIS Leaflet trajectory mapping, and deterministic AI Copilot.
+- **[BAS-HAR](https://github.com/KAVYAJOSHI1/BAS-HAR)** — *AI Human Activity Recognition for On-Board Astronaut Experiments* **(ISRO Microgravity Assistance)**
+  - Offline-first edge activity monitoring platform for astronauts in microgravity environments utilizing YOLO11 object detection, RTMPose skeleton tracking, MediaPipe 21-point hand tracking, and a deterministic FSM validation engine.
+- **[Incident AI](https://github.com/KAVYAJOSHI1/INCIDENTAI)** — *Automated AI Emergency Dispatch & Incident Management*
+  - Real-time emergency response platform using multi-modal AI agents to process incident signals, score severity, and trigger automated officer dispatch.
+- **[Globle Trotter / Odoo Hackathon](https://github.com/KAVYAJOSHI1)** — *Odoo-Integrated AI Travel & Expense Ecosystem* **(LDCE Globe Trotter Hackathon)**
+  - Full-stack AI itinerary generator, multi-destination budget estimator, and automated hotel/flight booking engine integrated into Odoo ERP workflows.
+- **[Smart Manufacturing ERP Platform](https://github.com/KAVYAJOSHI1/ERP)** — *Event-Driven Supply Chain Architecture*
+  - Enterprise-grade ERP microservices platform featuring Kafka outbox pattern, Node.js API Gateway, Next.js dashboard, PostgreSQL, Redis caching, and Docker Compose orchestration.
 - **[CoastScan](https://github.com/KAVYAJOSHI1/CoastScan)** — *AI Sand Grain Classification System* **(SIH 2025 National Winner)**
   - Automated computer vision platform using OpenCV, Django, PostgreSQL, and AWS for real-time coastal sediment mapping.
 - **[IoT Security Solution](https://github.com/KAVYAJOSHI1/IoT-Security-Solution)** — *Automated Firmware Vulnerability Scanner* **(DRDO Sampada 2025 Winner)**
-  - Embedded firmware extraction and static/binary vulnerability scanning toolkit tested against DVR/IP camera binaries.
+  - Embedded firmware extraction and static/binary vulnerability scanning toolkit tested against real DVR/IP camera firmware images.
 - **[AI Fraud Detection System](https://github.com/KAVYAJOSHI1/AI-Powered-Fraud-Detection-System)** — *Real-Time Transaction Anomaly Engine* **(Breach FinTech 2025 Winner)**
   - High-throughput ML anomaly detection system built with Django, TensorFlow, and MongoDB for high-frequency trading.
-- **[VeriCred](https://github.com/KAVYAJOSHI1/VeriCred)** — *Privacy-Preserving ZKML Credit Scoring Engine*
-  - Zero-Knowledge Machine Learning (EZKL + PyTorch) computing credit scores locally with on-chain Solidity validation on Sepolia.
-- **[GeoAnushasan](https://github.com/KAVYAJOSHI1/GeoAnushasan)** — *Decentralized Smart City Digital Twin* **(Ingenium 2026 Finalist)**
-  - Real-time urban telemetry platform combining Weather, AQI, and Traffic streams into a digital twin using Python, n8n & Firebase.
-- **[Sentinel GEC](https://github.com/KAVYAJOSHI1/GEC)** — *AI Retail Theft Detection System* **(Hack.X Top 12 Finalist)**
-  - Video feed analysis cross-referenced with POS logs; computer vision detects theft and anchors audit logs on Sepolia testnet.
 
 </details>
 
 <details>
-<summary><b>🤖 AI/ML, Autonomous Systems & Hardware</b></summary>
+<summary><b>🤖 AI/ML, Autonomous Systems & Privacy Tech</b></summary>
 <br>
 
+- **[VeriCred](https://github.com/KAVYAJOSHI1/VeriCred)** — *Privacy-Preserving ZKML Credit Scoring Engine*
+  - Zero-Knowledge Machine Learning (EZKL + PyTorch) computing credit scores locally with on-chain Solidity validation on Sepolia.
 - **[L3M](https://github.com/KAVYAJOSHI1/L3M)** — *Local Multi-Modal MCP AI System*
   - 100% offline, privacy-first AI architecture using custom Model Context Protocol (MCP) over TCP, Go orchestration, and Qdrant RAG.
 - **[LocalMinds](https://github.com/KAVYAJOSHI1/LOCALMINDS)** — *Sovereign Offline AI Companion*
   - On-device inference AI agent built with Flutter and MediaPipe featuring local RAG and zero data egress.
 - **[IC Scanner](https://github.com/KAVYAJOSHI1/IC-SCANNER)** — *Counterfeit Integrated Circuit Detector* **(Internal Hackathon Winner)**
   - AI computer vision system detecting counterfeit IC chips by matching microscopic surface features against genuine databases.
+- **[GeoAnushasan](https://github.com/KAVYAJOSHI1/GeoAnushasan)** — *Decentralized Smart City Digital Twin* **(Ingenium 2026 Finalist)**
+  - Real-time urban telemetry platform combining Weather, AQI, and Traffic streams into a digital twin using Python, n8n & Firebase.
+- **[Sentinel GEC](https://github.com/KAVYAJOSHI1/GEC)** — *AI Retail Theft Detection System* **(Hack.X Top 12 Finalist)**
+  - Video feed analysis cross-referenced with POS logs; computer vision detects theft and anchors audit logs on Sepolia testnet.
 - **[NexOS](https://github.com/KAVYAJOSHI1/NexOS)** — *Digital Twin Chrome AI Agent*
   - Local-first browser agent powered by n8n & Gemini AI that injects personal writing style into messaging & email platforms.
 - **[EcoScan](https://github.com/KAVYAJOSHI1/Greenwashing-Detector)** — *AI Greenwashing Claims Detector* **(Edunet Finalist)**
@@ -126,11 +136,9 @@ Final-year **Computer Science & Engineering** student at **GLS University** (CGP
 </details>
 
 <details>
-<summary><b>🌐 Enterprise Systems, Cloud & Web3</b></summary>
+<summary><b>🌐 Enterprise Web, Web3 & Mobile Applications</b></summary>
 <br>
 
-- **[Smart Manufacturing ERP Platform](https://github.com/KAVYAJOSHI1/ERP)** — *Event-Driven Supply Chain Architecture*
-  - Enterprise ERP with microservices, Kafka outbox pattern, Node.js API Gateway, Next.js dashboard, Redis caching, and Docker setup.
 - **[CarbonVerse](https://github.com/KAVYAJOSHI1/CARBONCRED)** — *Decentralized Carbon Credit Marketplace* **(PIERC Incubated)**
   - Geo-tagged crop AI evaluation linked with Solidity smart contracts for transparent carbon offset verification.
 - **[UrjaSetu](https://github.com/KAVYAJOSHI1/UrjaSetu-GUVNL-Platform)** — *GUVNL AI Grievance Platform* **(SSIP Gujarat State Finalist)**
@@ -148,29 +156,45 @@ Final-year **Computer Science & Engineering** student at **GLS University** (CGP
 
 ---
 
-## 📜 Certifications & Qualifications
+## 📜 Certifications & Verified Credentials
 
-<details open>
-<summary><b>🎓 Complete List of Professional Certifications (30+)</b></summary>
+<div align="center">
+
+### 🎓 Professional Credentials Matrix
+
+| Icon | Certificate Name | Issuing Organization | Verification Badge |
+| :---: | :--- | :--- | :---: |
+| ☁️ | **Oracle Cloud Infrastructure 2025 AI Foundations Associate** | Oracle | ![Oracle](https://img.shields.io/badge/Oracle-Certified-F80000?style=flat-square&logo=oracle&logoColor=white) |
+| ☁️ | **AWS Academy Graduate – Cloud Foundations** | Amazon Web Services | ![AWS](https://img.shields.io/badge/AWS-Certified-232F3E?style=flat-square&logo=amazon-webservices&logoColor=white) |
+| 🤖 | **ROBO-AI: 30-Day Industrial Training on Robotics & AI Simulation** | NVIDIA & Microsoft (My Equation) | ![NVIDIA](https://img.shields.io/badge/NVIDIA%20%26%20Microsoft-Ratified-76B900?style=flat-square&logo=nvidia&logoColor=white) |
+| ⚡ | **Agile Scrum Master Certification** | Simplilearn | ![Agile](https://img.shields.io/badge/Agile-Scrum%20Master-0052CC?style=flat-square&logo=scrumalliance&logoColor=white) |
+| 🐙 | **GitHub Foundations Certification** | GitHub | ![GitHub](https://img.shields.io/badge/GitHub-Foundations-181717?style=flat-square&logo=github&logoColor=white) |
+| 📊 | **Microsoft Learning Path: Dashboard in a Day (Power BI)** | Microsoft | ![Microsoft](https://img.shields.io/badge/Microsoft-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
+| 🧠 | **Foundation Course on Green Skills & Artificial Intelligence** | Edunet Foundation | ![Edunet](https://img.shields.io/badge/Edunet-Certified-00979D?style=flat-square&logo=google&logoColor=white) |
+| 🚀 | **Startup Pre-Incubation Program** | PIERC, Parul University | ![PIERC](https://img.shields.io/badge/PIERC-Incubated-FF6D5A?style=flat-square&logo=rocket&logoColor=white) |
+| 💡 | **Ignite Bootcamp: Idea to Plan** | Wadhwani Foundation | ![Wadhwani](https://img.shields.io/badge/Wadhwani-Ignite-FF9900?style=flat-square&logo=lightbulb&logoColor=white) |
+| 📐 | **Innovation, Design & Entrepreneurship (IDE) Bootcamp** | AICTE & Ministry of Education | ![AICTE](https://img.shields.io/badge/AICTE-Ministry%20of%20Education-00599C?style=flat-square) |
+| ⛓️ | **Mentorship Program on Blockchain / Bitcoin** | LaunchED Global | ![Blockchain](https://img.shields.io/badge/Blockchain-Mentorship-F7931A?style=flat-square&logo=bitcoin&logoColor=white) |
+| 📋 | **How to Create a Jira SCRUM Project** | Coursera Project Network | ![Coursera](https://img.shields.io/badge/Coursera-Scrum-0056D2?style=flat-square&logo=coursera&logoColor=white) |
+
+</div>
+
+<details>
+<summary><b>📜 Click to view all 30+ Certifications & Documents</b></summary>
 <br>
 
-#### ☁️ Cloud & Artificial Intelligence
 1. **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** — *Oracle*
 2. **AWS Academy Graduate – Cloud Foundations** — *Amazon Web Services (AWS)*
 3. **ROBO-AI: 30-Day Industrial Training on Robotics & AI Simulation** — *My Equation (Ratified by NVIDIA & Microsoft)*
-4. **Foundation Course on Green Skills & Artificial Intelligence** — *Edunet Foundation*
-
-#### ⚡ Engineering, Agile & DevOps
-5. **Agile Scrum Master** — *Simplilearn*
-6. **How to Create a Jira SCRUM Project** — *Coursera Project Network*
-7. **GitHub Foundations Certification** — *GitHub*
-
-#### 📊 Business, Analytics & Entrepreneurship
-8. **Microsoft Learning Path: Dashboard in a Day (Power BI)** — *Microsoft*
-9. **Startup Pre-Incubation Program** — *PIERC, Parul University*
-10. **Ignite Bootcamp: Idea to Plan** — *Wadhwani Foundation*
-11. **Innovation, Design & Entrepreneurship (IDE) Bootcamp** — *AICTE & Ministry of Education*
-12. **Mentorship Program on Blockchain / Bitcoin** — *LaunchED Global*
+4. **Agile Scrum Master** — *Simplilearn*
+5. **GitHub Foundations Certification** — *GitHub*
+6. **Microsoft Learning Path: Dashboard in a Day (Power BI)** — *Microsoft*
+7. **Foundation Course on Green Skills & Artificial Intelligence** — *Edunet Foundation*
+8. **Startup Pre-Incubation Program** — *PIERC, Parul University*
+9. **Ignite Bootcamp: Idea to Plan** — *Wadhwani Foundation*
+10. **Innovation, Design & Entrepreneurship (IDE) Bootcamp** — *AICTE & Ministry of Education*
+11. **Mentorship Program on Blockchain / Bitcoin** — *LaunchED Global*
+12. **How to Create a Jira SCRUM Project** — *Coursera Project Network*
 
 </details>
 
@@ -187,10 +211,10 @@ Final-year **Computer Science & Engineering** student at **GLS University** (CGP
 <br><br>
 
 <a href="https://github.com/KAVYAJOSHI1" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=KAVYAJOSHI1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kavya Joshi GitHub Stats" height="175" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=KAVYAJOSHI1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kavya Joshi GitHub Stats" height="175" />
 </a>
 <a href="https://github.com/KAVYAJOSHI1" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVYAJOSHI1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="175" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KAVYAJOSHI1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="175" />
 </a>
 
 <br><br>
