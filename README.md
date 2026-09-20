@@ -29,42 +29,42 @@ Final-year **Computer Science & Engineering** student at **GLS University** (CGP
 ## Professional Experience
 
 ### Embedded Engineer — eInfochips (An Arrow Company)
-**Role**: Embedded Engineer *(Campus Placement)*  
+**Role**: Embedded Engineer *(Campus Placement)* | [View Joining Letter](https://kavyajoshi1.github.io/Certificates/Einfochips%20Joining%20Letter%20Kavya%20Joshi.pdf)  
 * **Specialization**: Embedded Systems Engineering, IoT Firmware Development, Hardware-Software Integration, and Real-Time Systems.
 * **Core Focus**: Low-level firmware engineering, hardware peripheral optimization, board bring-up, and real-time sensor telemetry for enterprise IoT deployments.
 
 ### AI/ML & Full Stack Intern — Cygnet.One
-**Role**: AI/ML & Full Stack Intern *(June 2026 – July 2026)*  
+**Role**: AI/ML & Full Stack Intern *(June 2026 – July 2026)* | [View Certificate](https://kavyajoshi1.github.io/Certificates/Cygnet_Internship_Completion.pdf)  
 * **Enterprise AI & SDLC Automation**: Engineered enterprise AI automation agents for Jira and HR workflow integration.
 * **Backend Architecture**: Developed FastAPI backend microservices supporting REST APIs, OAuth authentication, HTTPS/TLS, AES-RSA encryption, dynamic JSON rendering, and Angular frontend integration.
 
 ### Founder & Lead Architect — CarbonVerse (ClimateTech Startup)
-**Role**: Founder *(2025 – Present)* | **Incubation**: PIERC Cohort 9, Parul University  
+**Role**: Founder *(2025 – Present)* | **Incubation**: PIERC Cohort 9, Parul University | [View Founder Certificate](https://kavyajoshi1.github.io/Certificates/CarbonVerse_Founder_Certificate.pdf)  
 * **Platform Architecture**: Designed an AI-verified carbon credit marketplace combining satellite computer vision with on-chain credit minting on Ethereum Sepolia.
 * **Incubation & Grant**: Selected for the **PIERC Cohort 9 Incubation Program** and secured non-dilutive seed startup funding.
 
 ### Membership Chair — ACM Student Chapter & IEEE Member
-**Role**: ACM Membership Chair *(GLS University)*  
+**Role**: ACM Membership Chair *(GLS University)* | [View IEEE Credentials](https://kavyajoshi1.github.io/Certificates/IEEE_Membership.pdf)  
 * Technical community leadership fostering hands-on software development for **200+ members**. Organized technical workshops, hackathons, and Track 3 at CyberShadez 2026 ("Rise of Agent").
 
 ---
 
 ## Key Achievements & Recognition
 
-| Award / Milestone | Organization / Event | Key Details |
-| :--- | :--- | :--- |
-| **SIH 2025 National Winner** | Smart India Hackathon | **1st Place Nationally** for CoastScan (AI Beach Sand Classification System). |
-| **DRDO Hackathon Winner** | DRDO DIA-SVPCoE Sampada 2025 | **1st Place** in IoT Security for automated firmware binary vulnerability scanning. |
-| **Breach 2025 Winner** | Breach FinTech Hackathon, PDEU | **1st Place** for real-time AI anomaly & fraud detection engine in high-frequency trading. |
-| **ISRO Hackathon Solution** | Bhartiya Antariksh Hackathon | Engineered Lunar Mission Planning System analyzing DFSAR radar & OHRC telemetry. |
-| **2x Internal Hackathon Champion** | GLS University (2024 & 2025) | Two-time Champion across annual university-wide internal hackathons. |
-| **Outstanding Innovation Award** | GLS Incubation Centre | Recognized for outstanding product innovation & enterprise viability with CoastScan. |
-| **Hack.X Top 12 Finalist** | GEC Gandhinagar | Placed **Top 12 out of 70+ teams** for Sentinel GEC AI & Sepolia audit system. |
-| **Ingenium 2026 Finalist** | Ahmedabad University | Finalist for GeoAnushasan smart city digital twin governance platform. |
-| **SSIP State Finalist** | SSIP Gujarat Hackathon 2025 | State-level finalist for UrjaSetu AI GUVNL feedback platform. |
-| **Parul Ideathon Finalist** | Vadodara Startup Festival 6.0 | Led Team CarbonVerse to final pitch round for Web3 climate technology. |
-| **HackOut '25 & '26 Finalist** | DA-IICT Gandhinagar | Finalist in back-to-back editions of DA-IICT's flagship hackathon (Team Caffeine Clause). |
-| **Bhrigu Lake Alpine Summit** | Kullu Himalayas (4,300m / 14,100ft) | **1 of 4 climbers out of 50** to complete summit during live alpine thunderstorm. |
+| Award / Milestone | Organization / Event | Key Details | Verified Document |
+| :--- | :--- | :--- | :---: |
+| **SIH 2025 National Winner** | Smart India Hackathon | **1st Place Nationally** for CoastScan (AI Beach Sand Classification System). | [View Certificate](https://kavyajoshi1.github.io/Certificates/SIH.jpg) |
+| **DRDO Hackathon Winner** | DRDO DIA-SVPCoE Sampada 2025 | **1st Place** in IoT Security for automated firmware binary vulnerability scanning. | [View Certificate](https://kavyajoshi1.github.io/Certificates/DRDO_Sampada_Winner.jpg) |
+| **Breach 2025 Winner** | Breach FinTech Hackathon, PDEU | **1st Place** for real-time AI anomaly & fraud detection engine in high-frequency trading. | [View Certificate](https://kavyajoshi1.github.io/Certificates/AnirvedaWinning.jpg) |
+| **ISRO Hackathon Solution** | Bhartiya Antariksh Hackathon | Engineered Lunar Mission Planning System analyzing DFSAR radar & OHRC telemetry. | [View Certificate](https://kavyajoshi1.github.io/Certificates/BhartiyaAntarikshHackathon.pdf) |
+| **2x Internal Hackathon Champion** | GLS University (2024 & 2025) | Two-time Champion across annual university-wide internal hackathons. | [View Certificate](https://kavyajoshi1.github.io/Certificates/GLS_Internal_Hackathon_2025.pdf) |
+| **Outstanding Innovation Award** | GLS Incubation Centre | Recognized for outstanding product innovation & enterprise viability with CoastScan. | [View Certificate](https://kavyajoshi1.github.io/Certificates/CoastScan_Innovation_Award.pdf) |
+| **Hack.X Top 12 Finalist** | GEC Gandhinagar | Placed **Top 12 out of 70+ teams** for Sentinel GEC AI & Sepolia audit system. | [View Certificate](https://kavyajoshi1.github.io/Certificates/GEC_Hackathon_Finalist.pdf) |
+| **Ingenium 2026 Finalist** | Ahmedabad University | Finalist for GeoAnushasan smart city digital twin governance platform. | [View Certificate](https://kavyajoshi1.github.io/Certificates/AU_Ingenious_Hackathon_Certificate.pdf) |
+| **SSIP State Finalist** | SSIP Gujarat Hackathon 2025 | State-level finalist for UrjaSetu AI GUVNL feedback platform. | [View Certificate](https://kavyajoshi1.github.io/Certificates/SSIP_Gujarat_Hackathon.jpg) |
+| **Parul Ideathon Finalist** | Vadodara Startup Festival 6.0 | Led Team CarbonVerse to final pitch round for Web3 climate technology. | [View Certificate](https://kavyajoshi1.github.io/Certificates/Parul_Ideathon_Finalist.pdf) |
+| **HackOut '25 & '26 Finalist** | DA-IICT Gandhinagar | Finalist in back-to-back editions of DA-IICT's flagship hackathon (Team Caffeine Clause). | [View Certificate](https://kavyajoshi1.github.io/Certificates/HackOut2026.pdf) |
+| **Bhrigu Lake Alpine Summit** | Kullu Himalayas (4,300m / 14,100ft) | **1 of 4 climbers out of 50** to complete summit during live alpine thunderstorm. | [View Certificate](https://kavyajoshi1.github.io/Certificates/Bhrigu_Lake_Trek_Certificate.pdf) |
 
 ---
 
@@ -162,39 +162,56 @@ Final-year **Computer Science & Engineering** student at **GLS University** (CGP
 
 ### Credentials Verification Matrix
 
-| Category | Certificate Name | Issuing Body | Status / Verification |
+| Category | Certificate Name | Issuing Body | Direct Verification Link |
 | :---: | :--- | :--- | :---: |
-| **Cloud & AI** | **Oracle Cloud Infrastructure 2025 AI Foundations Associate** | Oracle | ![Oracle](https://img.shields.io/badge/Oracle-Certified-F80000?style=flat-square&logo=oracle&logoColor=white) |
-| **Cloud & AI** | **AWS Academy Graduate – Cloud Foundations** | Amazon Web Services | ![AWS](https://img.shields.io/badge/AWS-Certified-232F3E?style=flat-square&logo=amazon-webservices&logoColor=white) |
-| **Robotics & AI** | **ROBO-AI: 30-Day Industrial Training on Robotics & AI Simulation** | NVIDIA & Microsoft | ![NVIDIA](https://img.shields.io/badge/NVIDIA%20%26%20Microsoft-Ratified-76B900?style=flat-square&logo=nvidia&logoColor=white) |
-| **Agile** | **Agile Scrum Master Certification** | Simplilearn | ![Agile](https://img.shields.io/badge/Agile-Scrum%20Master-0052CC?style=flat-square&logo=scrumalliance&logoColor=white) |
-| **DevOps** | **GitHub Foundations Certification** | GitHub | ![GitHub](https://img.shields.io/badge/GitHub-Foundations-181717?style=flat-square&logo=github&logoColor=white) |
-| **Analytics** | **Microsoft Learning Path: Dashboard in a Day (Power BI)** | Microsoft | ![Microsoft](https://img.shields.io/badge/Microsoft-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
-| **Green Tech** | **Foundation Course on Green Skills & Artificial Intelligence** | Edunet Foundation | ![Edunet](https://img.shields.io/badge/Edunet-Certified-00979D?style=flat-square&logo=google&logoColor=white) |
-| **Venture** | **Startup Pre-Incubation Program** | PIERC, Parul University | ![PIERC](https://img.shields.io/badge/PIERC-Incubated-FF6D5A?style=flat-square&logo=rocket&logoColor=white) |
-| **Business** | **Ignite Bootcamp: Idea to Plan** | Wadhwani Foundation | ![Wadhwani](https://img.shields.io/badge/Wadhwani-Ignite-FF9900?style=flat-square&logo=lightbulb&logoColor=white) |
-| **Design** | **Innovation, Design & Entrepreneurship (IDE) Bootcamp** | AICTE & Ministry of Education | ![AICTE](https://img.shields.io/badge/AICTE-Ministry%20of%20Education-00599C?style=flat-square) |
-| **Blockchain** | **Mentorship Program on Blockchain / Bitcoin** | LaunchED Global | ![Blockchain](https://img.shields.io/badge/Blockchain-Mentorship-F7931A?style=flat-square&logo=bitcoin&logoColor=white) |
-| **Scrum** | **How to Create a Jira SCRUM Project** | Coursera Project Network | ![Coursera](https://img.shields.io/badge/Coursera-Scrum-0056D2?style=flat-square&logo=coursera&logoColor=white) |
+| **Cloud & AI** | [**Oracle Cloud Infrastructure 2025 AI Foundations Associate**](https://kavyajoshi1.github.io/Certificates/OCI_CERTIFICATE.pdf) | Oracle | [![View Certificate](https://img.shields.io/badge/Verify-PDF-F80000?style=flat-square&logo=oracle&logoColor=white)](https://kavyajoshi1.github.io/Certificates/OCI_CERTIFICATE.pdf) |
+| **Cloud & AI** | [**AWS Academy Graduate – Cloud Foundations**](https://kavyajoshi1.github.io/Certificates/AWS_Academy_Cloud_Foundations.pdf) | Amazon Web Services | [![View Certificate](https://img.shields.io/badge/Verify-PDF-232F3E?style=flat-square&logo=amazon-webservices&logoColor=white)](https://kavyajoshi1.github.io/Certificates/AWS_Academy_Cloud_Foundations.pdf) |
+| **Robotics & AI** | [**ROBO-AI: 30-Day Industrial Training on Robotics & AI Simulation**](https://kavyajoshi1.github.io/Certificates/ROBO_AI_-_JADE-KAVYA_JOSHI.pdf) | NVIDIA & Microsoft | [![View Certificate](https://img.shields.io/badge/Verify-PDF-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://kavyajoshi1.github.io/Certificates/ROBO_AI_-_JADE-KAVYA_JOSHI.pdf) |
+| **Agile** | [**Agile Scrum Master Certification**](https://kavyajoshi1.github.io/Certificates/Agile_Scrum_Master.pdf) | Simplilearn | [![View Certificate](https://img.shields.io/badge/Verify-PDF-0052CC?style=flat-square&logo=scrumalliance&logoColor=white)](https://kavyajoshi1.github.io/Certificates/Agile_Scrum_Master.pdf) |
+| **DevOps** | [**GitHub Foundations Certification**](https://kavyajoshi1.github.io/Certificates/githubcertificate.png) | GitHub | [![View Certificate](https://img.shields.io/badge/Verify-Image-181717?style=flat-square&logo=github&logoColor=white)](https://kavyajoshi1.github.io/Certificates/githubcertificate.png) |
+| **Analytics** | [**Microsoft Learning Path: Dashboard in a Day (Power BI)**](https://kavyajoshi1.github.io/Certificates/Power_BI_Dashboard_in_a_Day.pdf) | Microsoft | [![View Certificate](https://img.shields.io/badge/Verify-PDF-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://kavyajoshi1.github.io/Certificates/Power_BI_Dashboard_in_a_Day.pdf) |
+| **Green Tech** | [**Foundation Course on Green Skills & Artificial Intelligence**](https://kavyajoshi1.github.io/Certificates/EDUNET_Completion.pdf) | Edunet Foundation | [![View Certificate](https://img.shields.io/badge/Verify-PDF-00979D?style=flat-square&logo=google&logoColor=white)](https://kavyajoshi1.github.io/Certificates/EDUNET_Completion.pdf) |
+| **Venture** | [**Startup Pre-Incubation Program**](https://kavyajoshi1.github.io/Certificates/PIERC_Pre_Incubation.pdf) | PIERC, Parul University | [![View Certificate](https://img.shields.io/badge/Verify-PDF-FF6D5A?style=flat-square&logo=rocket&logoColor=white)](https://kavyajoshi1.github.io/Certificates/PIERC_Pre_Incubation.pdf) |
+| **Business** | [**Ignite Bootcamp: Idea to Plan**](https://kavyajoshi1.github.io/Certificates/WADHWANI.pdf) | Wadhwani Foundation | [![View Certificate](https://img.shields.io/badge/Verify-PDF-FF9900?style=flat-square&logo=lightbulb&logoColor=white)](https://kavyajoshi1.github.io/Certificates/WADHWANI.pdf) |
+| **Design** | [**Innovation, Design & Entrepreneurship (IDE) Bootcamp**](https://kavyajoshi1.github.io/Certificates/IDE%20KAVYA.jpg) | AICTE & Ministry of Education | [![View Certificate](https://img.shields.io/badge/Verify-Image-00599C?style=flat-square)](https://kavyajoshi1.github.io/Certificates/IDE%20KAVYA.jpg) |
+| **Blockchain** | [**Mentorship Program on Blockchain / Bitcoin**](https://kavyajoshi1.github.io/Certificates/Bitcoin_Kavya_Joshi.pdf) | LaunchED Global | [![View Certificate](https://img.shields.io/badge/Verify-PDF-F7931A?style=flat-square&logo=bitcoin&logoColor=white)](https://kavyajoshi1.github.io/Certificates/Bitcoin_Kavya_Joshi.pdf) |
+| **Scrum** | [**How to Create a Jira SCRUM Project**](https://kavyajoshi1.github.io/Certificates/JIRA_CERTIFICATE.pdf) | Coursera Project Network | [![View Certificate](https://img.shields.io/badge/Verify-PDF-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://kavyajoshi1.github.io/Certificates/JIRA_CERTIFICATE.pdf) |
 
 </div>
 
 <details>
-<summary><b>Complete Credentials Archive (30+ Certificates & Transcripts)</b></summary>
+<summary><b>Complete Credentials Archive (30+ Clickable Certificate Links)</b></summary>
 <br>
 
-1. **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** — *Oracle*
-2. **AWS Academy Graduate – Cloud Foundations** — *Amazon Web Services (AWS)*
-3. **ROBO-AI: 30-Day Industrial Training on Robotics & AI Simulation** — *My Equation (Ratified by NVIDIA & Microsoft)*
-4. **Agile Scrum Master** — *Simplilearn*
-5. **GitHub Foundations Certification** — *GitHub*
-6. **Microsoft Learning Path: Dashboard in a Day (Power BI)** — *Microsoft*
-7. **Foundation Course on Green Skills & Artificial Intelligence** — *Edunet Foundation*
-8. **Startup Pre-Incubation Program** — *PIERC, Parul University*
-9. **Ignite Bootcamp: Idea to Plan** — *Wadhwani Foundation*
-10. **Innovation, Design & Entrepreneurship (IDE) Bootcamp** — *AICTE & Ministry of Education*
-11. **Mentorship Program on Blockchain / Bitcoin** — *LaunchED Global*
-12. **How to Create a Jira SCRUM Project** — *Coursera Project Network*
+1. [**Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**](https://kavyajoshi1.github.io/Certificates/OCI_CERTIFICATE.pdf) — *Oracle*
+2. [**AWS Academy Graduate – Cloud Foundations**](https://kavyajoshi1.github.io/Certificates/AWS_Academy_Cloud_Foundations.pdf) — *Amazon Web Services (AWS)*
+3. [**ROBO-AI: 30-Day Industrial Training on Robotics & AI Simulation**](https://kavyajoshi1.github.io/Certificates/ROBO_AI_-_JADE-KAVYA_JOSHI.pdf) — *My Equation (Ratified by NVIDIA & Microsoft)*
+4. [**Agile Scrum Master Certification**](https://kavyajoshi1.github.io/Certificates/Agile_Scrum_Master.pdf) — *Simplilearn*
+5. [**GitHub Foundations Certification**](https://kavyajoshi1.github.io/Certificates/githubcertificate.png) — *GitHub*
+6. [**Microsoft Learning Path: Dashboard in a Day (Power BI)**](https://kavyajoshi1.github.io/Certificates/Power_BI_Dashboard_in_a_Day.pdf) — *Microsoft*
+7. [**Foundation Course on Green Skills & Artificial Intelligence**](https://kavyajoshi1.github.io/Certificates/EDUNET_Completion.pdf) — *Edunet Foundation*
+8. [**Startup Pre-Incubation Program**](https://kavyajoshi1.github.io/Certificates/PIERC_Pre_Incubation.pdf) — *PIERC, Parul University*
+9. [**Ignite Bootcamp: Idea to Plan**](https://kavyajoshi1.github.io/Certificates/WADHWANI.pdf) — *Wadhwani Foundation*
+10. [**Innovation, Design & Entrepreneurship (IDE) Bootcamp**](https://kavyajoshi1.github.io/Certificates/IDE%20KAVYA.jpg) — *AICTE & Ministry of Education*
+11. [**Mentorship Program on Blockchain / Bitcoin**](https://kavyajoshi1.github.io/Certificates/Bitcoin_Kavya_Joshi.pdf) — *LaunchED Global*
+12. [**How to Create a Jira SCRUM Project**](https://kavyajoshi1.github.io/Certificates/JIRA_CERTIFICATE.pdf) — *Coursera Project Network*
+13. [**Smart India Hackathon 2025 Winner Certificate**](https://kavyajoshi1.github.io/Certificates/SIH.jpg) — *Smart India Hackathon*
+14. [**DRDO DIA-SVPCoE Sampada 2025 Winner Certificate**](https://kavyajoshi1.github.io/Certificates/DRDO_Sampada_Winner.jpg) — *DRDO*
+15. [**Breach 2025 FinTech Hackathon Winner Certificate**](https://kavyajoshi1.github.io/Certificates/AnirvedaWinning.jpg) — *PDEU*
+16. [**Bhartiya Antariksh Hackathon Certificate**](https://kavyajoshi1.github.io/Certificates/BhartiyaAntarikshHackathon.pdf) — *ISRO*
+17. [**CarbonVerse Founder Certificate**](https://kavyajoshi1.github.io/Certificates/CarbonVerse_Founder_Certificate.pdf) — *PIERC, Parul University*
+18. [**CoastScan Outstanding Innovation Award**](https://kavyajoshi1.github.io/Certificates/CoastScan_Innovation_Award.pdf) — *GLS Incubation Centre*
+19. [**CyberShadez 2026 Student Coordinator Letter**](https://kavyajoshi1.github.io/Certificates/CyberShadez_Coordinator_Letter.pdf) — *GLS University*
+20. [**Cygnet.One Internship Completion Certificate**](https://kavyajoshi1.github.io/Certificates/Cygnet_Internship_Completion.pdf) — *Cygnet.One*
+21. [**GLS Internal Hackathon Winner Certificate**](https://kavyajoshi1.github.io/Certificates/GLS_Internal_Hackathon_2025.pdf) — *GLS University*
+22. [**Hack.X at HackTheSpring '26 Finalist Certificate**](https://kavyajoshi1.github.io/Certificates/GEC_Hackathon_Finalist.pdf) — *GEC Gandhinagar*
+23. [**Ingenious Hackathon 7.0 Finalist Certificate**](https://kavyajoshi1.github.io/Certificates/AU_Ingenious_Hackathon_Certificate.pdf) — *Ahmedabad University*
+24. [**SSIP Gujarat Hackathon 2025 Finalist Certificate**](https://kavyajoshi1.github.io/Certificates/SSIP_Gujarat_Hackathon.jpg) — *SSIP Gujarat*
+25. [**Parul Ideathon Finalist Certificate**](https://kavyajoshi1.github.io/Certificates/Parul_Ideathon_Finalist.pdf) — *Vadodara Startup Festival 6.0*
+26. [**HackOut'25 DA-IICT Finalist Certificate**](https://kavyajoshi1.github.io/Certificates/HackOut2025.pdf) — *DA-IICT*
+27. [**HackOut'26 DA-IICT Finalist Certificate**](https://kavyajoshi1.github.io/Certificates/HackOut2026.pdf) — *DA-IICT*
+28. [**IEEE & ACM Membership Credentials**](https://kavyajoshi1.github.io/Certificates/IEEE_Membership.pdf) — *IEEE & ACM*
+29. [**Bhrigu Lake Summit Trek Certificate**](https://kavyajoshi1.github.io/Certificates/Bhrigu_Lake_Trek_Certificate.pdf) — *Himachal Pradesh Alpine Expedition*
 
 </details>
 
